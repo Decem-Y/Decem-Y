@@ -4,7 +4,13 @@
   <img src="https://profile-counter.glitch.me/Decem-Y/count.svg" />
 </p>
 
-![Decem-Y's GitHub stats](https://github-readme-stats.vercel.app/api?username=Decem-Y&count_private=true)
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Decem-Y&show_icons=true" alt="GitHub Stats" height="192"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Decem-Y&layout=compact" alt="Top Languages" height="192"/>
+</div>
+
 
 ## 🏆 比赛荣誉
 
