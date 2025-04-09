@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Decem-Y&show_icons=true" alt="GitHub Stats" height="192"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Decem-Y&layout=compact" alt="Top Languages" height="192"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Decem-Y&layout=compact" alt="Top Languages" height="180"/>
 </div>
 
 
