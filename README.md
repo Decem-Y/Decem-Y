@@ -17,7 +17,7 @@
 | 比赛名称 | 成绩 |
 |---------|------|
 | MCS Challenge - Generative Interior Design Challenge 2024 | 🥇 冠军 |
-| Chaiverse LLM Challenge VIII（大模型） | 🥇 冠军 |
+| Chaiverse LLM Challenge VIII（LLM） | 🥇 冠军 |
 | 第四届中国法研杯司法人工智能挑战赛 | 🥇 冠军 |
 | 第二届同花顺算法大赛 | 🥇 冠军 |
 | 2021 搜狐校园文本匹配算法大赛 | 🥈 第二名 |
