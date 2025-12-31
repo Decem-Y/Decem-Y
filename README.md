@@ -1,28 +1,48 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="40"/> Hey! Nice to see you.</h1>
+# Welcome to my GitHub Profile 🎉
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/Decem-Y/count.svg" />
-</p>
+## 🧑‍🚀 About Me
+Hello! I'm **Decem Y.**, a passionate developer focused on creating impactful open-source projects and delivering cutting-edge software solutions. My journey in technology has been driven by curiosity and a desire to innovate.
 
-## 📊 GitHub Stats
+### 🌟 Specialties
+- **Programming Languages**: JavaScript, Python, C++
+- **Frameworks & Tools**: React, Node.js, TensorFlow, Docker
+- **Interests**: Machine Learning, Full-stack Development, and Cloud Technologies
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Decem-Y&show_icons=true" alt="GitHub Stats" height="192"/>
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Decem-Y&layout=compact" alt="Top Languages" height="180"/> -->
-</div>
+[![My Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
 
+---
 
-## 🏆 比赛
+## 📊 GitHub Activity Visualized
+![Decem-Y's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Decem-Y&show_icons=true&theme=radical)
 
-| 比赛名称 | 成绩 |
-|---------|------|
-| MCS Challenge - Generative Interior Design Challenge 2024 | 🥇 冠军 |
-| Chaiverse LLM Challenge VIII（LLM） | 🥇 冠军 |
-| 第四届中国法研杯司法人工智能挑战赛 | 🥇 冠军 |
-| 第二届同花顺算法大赛 | 🥇 冠军 |
-| 2021 搜狐校园文本匹配算法大赛 | 🥈 第二名 |
-| 山东省第三届数据应用创新创业大赛 | 🥈 第二名 |
-| 2024 年 科大讯飞AI开发者大赛 - “说话人无关的构音障碍语音识别挑战赛” | 🥈 第二名 |
-| 2021 年 "睿聚杯"法律科技创新大赛 | 🥉 三等奖 |
-| 2021 华为 DIGIX 全球校园算法精英大赛 | 🏅 第四名 |
-| 第八届"信也杯"- 语音方言距离识别 | 🏅 第五名 |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Decem-Y&layout=compact&theme=radical&hide=css,html)
+
+---
+
+## 🏆 Major Achievements
+
+### Open Source Contributions
+- Contributed to [ProjectA](https://github.com/example/projectA) improving its performance by 30%.
+- Published [LibraryB](https://github.com/example/libraryB), now used by over 5K developers globally.
+
+### Hackathons & Awards
+- **Winner**: CodeJam 2025 🥇 Developed a revolutionary tool to optimize cloud storage.
+- **Runner-Up**: AI Innovators 2024 🤖 Built a model that predicts energy outputs with 95% accuracy.
+
+### Professional Recognition
+- **Top 1%** on Stack Overflow, answering over 100 high-quality questions.
+- Invited Speaker at the **2025 Global Developer Conference**.
+
+---
+
+## 🚀 Future Goals
+1. Make meaningful contributions to deep learning research.
+2. Launch an initiative to teach programming in underserved communities.
+3. Continue growing and learning every day.
+
+---
+
+> “The best way to predict the future is to invent it.” – Alan Kay
+
+Feel free to connect with me or explore my repositories for more! 😊
